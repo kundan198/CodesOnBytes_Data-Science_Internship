@@ -39,5 +39,4 @@ This repository contains the completed tasks for the Data Science Projects, divi
 - Plagiarism will result in termination from the internship.
 - Inactiveness during your tenure may lead to termination from the internship.
 
-## Contact
-For any inquiries or support, feel free to contact [Your Email Address].
+
